@@ -1,6 +1,4 @@
-# Prueba gmestra
-Mi nombre es felix
-Mi nombre es adriana
+Mi nombre es Karen
 # demo-git2
 Este es el segundo repositorio de git
 
